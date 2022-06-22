@@ -1,7 +1,7 @@
 
 # Fala Dev!! Tudo beleza ?
 
-- 👩‍💻 -  Eu me chamo [Kauanne Nunes](www.linkedin.com/in/kauannenunes-58a8a3116);
+- 👩‍💻 -  Eu me chamo [Kauanne Nunes](www.linkedin.com/in/kauannenunes);
 - 💜 - Atualmente sou Tech Recruiter na [99Hunters, GR Soluções em RH e Query Work];
 - 🦄 - Essas consultorias contratam os melhores talentos techs para empresas referência de mercado;
 - 💸 - Constantemente temos vagas para:
@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   
-  <a href="www.linkedin.com/in/kauannenunes-58a8a3116" target="_blank">
+  <a href="www.linkedin.com/in/kauannenunes" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   
