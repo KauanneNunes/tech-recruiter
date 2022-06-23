@@ -148,7 +148,7 @@ span {
   justify-content: space-between;
   flex-direction: row;
   background: rgba(105, 105, 105, 1);
-  /*background-color: #4516d8;*/
+  background-color: #4516d8;
 }
 
 .header-bar .nome {
@@ -339,7 +339,7 @@ main {
   z-index: 5;
   border-radius: 10px;
   background: rgba(105, 105, 105, 0.9);
-  /*background-color: #4516d8*/
+  background-color: #460f85
 }
 
 @media (min-width: 1024px) {
